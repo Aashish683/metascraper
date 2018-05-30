@@ -1,0 +1,1741 @@
+{
+  "simulations": [
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/acid-base-solutions.html",
+      "simulation_name": "Acid-Base Solutions",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/alpha-decay.html",
+      "simulation_name": "Alpha Decay",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/area-builder.html",
+      "simulation_name": "Area Builder",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/arithmetic.html",
+      "simulation_name": "Arithmetic",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/atomic-interactions.html",
+      "simulation_name": "Atomic Interactions",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/balancing-act.html",
+      "simulation_name": "Balancing Act",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/balancing-chemical-equations.html",
+      "simulation_name": "Balancing Chemical Equations",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/balloons-and-buoyancy.html",
+      "simulation_name": "Balloons & Buoyancy",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/balloons-and-static-electricity.html",
+      "simulation_name": "Balloons and Static Electricity",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/band-structure.html",
+      "simulation_name": "Band Structure",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/battery-resistor-circuit.html",
+      "simulation_name": "Battery-Resistor Circuit",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/battery-voltage.html",
+      "simulation_name": "Battery Voltage",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/beers-law-lab.html",
+      "simulation_name": "Beer's Law Lab",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/bending-light.html",
+      "simulation_name": "Bending Light",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/beta-decay.html",
+      "simulation_name": "Beta Decay",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/blackbody-spectrum.html",
+      "simulation_name": "Blackbody Spectrum",
+      "educational_subjects": [
+        "Physics",
+        "Biology",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/build-a-fraction.html",
+      "simulation_name": "Build a Fraction",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/build-a-molecule.html",
+      "simulation_name": "Build a Molecule",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/build-an-atom.html",
+      "simulation_name": "Build an Atom",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/buoyancy.html",
+      "simulation_name": "Buoyancy",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/calculus-grapher.html",
+      "simulation_name": "Calculus Grapher",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/capacitor-lab.html",
+      "simulation_name": "Capacitor Lab",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/capacitor-lab-basics.html",
+      "simulation_name": "Capacitor Lab: Basics",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/charges-and-fields.html",
+      "simulation_name": "Charges And Fields",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/circuit-construction-kit-dc.html",
+      "simulation_name": "Circuit Construction Kit: DC",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/circuit-construction-kit-dc-virtual-lab.html",
+      "simulation_name": "Circuit Construction Kit: DC - Virtual Lab",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/circuit-construction-kit-ac.html",
+      "simulation_name": "Circuit Construction Kit (AC+DC)",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/circuit-construction-kit-ac-virtual-lab.html",
+      "simulation_name": "Circuit Construction Kit (AC+DC), Virtual Lab",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/collision-lab.html",
+      "simulation_name": "Collision Lab",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/color-vision.html",
+      "simulation_name": "Color Vision",
+      "educational_subjects": [
+        "Physics",
+        "Biology"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/concentration.html",
+      "simulation_name": "Concentration",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/conductivity.html",
+      "simulation_name": "Conductivity",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/curve-fitting.html",
+      "simulation_name": "Curve Fitting",
+      "educational_subjects": [
+        "Biology",
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/davisson-germer.html",
+      "simulation_name": "Davisson-Germer: Electron Diffraction",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/density.html",
+      "simulation_name": "Density",
+      "educational_subjects": [
+        "Physics",
+        "Biology",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/covalent-bonds.html",
+      "simulation_name": "Double Wells and Covalent Bonds",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/eating-and-exercise.html",
+      "simulation_name": "Eating & Exercise",
+      "educational_subjects": [
+        "Biology"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/electric-hockey.html",
+      "simulation_name": "Electric Field Hockey",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/efield.html",
+      "simulation_name": "Electric Field of Dreams",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/energy-forms-and-changes.html",
+      "simulation_name": "Energy Forms and Changes",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/energy-skate-park.html",
+      "simulation_name": "Energy Skate Park",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/energy-skate-park-basics.html",
+      "simulation_name": "Energy Skate Park: Basics",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/equation-grapher.html",
+      "simulation_name": "Equation Grapher",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/estimation.html",
+      "simulation_name": "Estimation",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/expression-exchange.html",
+      "simulation_name": "Expression Exchange",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/faraday.html",
+      "simulation_name": "Faraday's Electromagnetic Lab",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/faradays-law.html",
+      "simulation_name": "Faraday's Law",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/fluid-pressure-and-flow.html",
+      "simulation_name": "Fluid Pressure and Flow",
+      "educational_subjects": [
+        "Physics",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/forces-and-motion.html",
+      "simulation_name": "Forces and Motion",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/forces-and-motion-basics.html",
+      "simulation_name": "Forces and Motion: Basics",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/forces-1d.html",
+      "simulation_name": "Forces in 1 Dimension",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/fourier.html",
+      "simulation_name": "Fourier: Making Waves",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Math"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/fraction-matcher.html",
+      "simulation_name": "Fraction Matcher",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/fractions-intro.html",
+      "simulation_name": "Fractions Intro",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/friction.html",
+      "simulation_name": "Friction",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/function-builder.html",
+      "simulation_name": "Function Builder",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/function-builder-basics.html",
+      "simulation_name": "Function Builder: Basics",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/gas-properties.html",
+      "simulation_name": "Gas Properties",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/gene-expression-essentials.html",
+      "simulation_name": "Gene Expression Essentials",
+      "educational_subjects": [
+        "Biology"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/gene-machine-lac-operon.html",
+      "simulation_name": "Gene Machine: The Lac Operon",
+      "educational_subjects": [
+        "Biology"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/generator.html",
+      "simulation_name": "Generator",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/geometric-optics.html",
+      "simulation_name": "Geometric Optics",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/glaciers.html",
+      "simulation_name": "Glaciers",
+      "educational_subjects": [
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/graphing-lines.html",
+      "simulation_name": "Graphing Lines",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/graphing-slope-intercept.html",
+      "simulation_name": "Graphing Slope-Intercept",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/gravity-and-orbits.html",
+      "simulation_name": "Gravity And Orbits",
+      "educational_subjects": [
+        "Physics",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/gravity-force-lab.html",
+      "simulation_name": "Gravity Force Lab",
+      "educational_subjects": [
+        "Physics",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/greenhouse.html",
+      "simulation_name": "The Greenhouse Effect",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/hookes-law.html",
+      "simulation_name": "Hooke's Law",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/isotopes-and-atomic-mass.html",
+      "simulation_name": "Isotopes and Atomic Mass",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/john-travoltage.html",
+      "simulation_name": "John Travoltage",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/ladybug-motion-2d.html",
+      "simulation_name": "Ladybug Motion 2D",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/rotation.html",
+      "simulation_name": "Ladybug Revolution",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/lasers.html",
+      "simulation_name": "Lasers",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/least-squares-regression.html",
+      "simulation_name": "Least-Squares Regression",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/lunar-lander.html",
+      "simulation_name": "Lunar Lander",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/magnet-and-compass.html",
+      "simulation_name": "Magnet and Compass",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/magnets-and-electromagnets.html",
+      "simulation_name": "Magnets and Electromagnets",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/make-a-ten.html",
+      "simulation_name": "Make a Ten",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/mass-spring-lab.html",
+      "simulation_name": "Masses & Springs",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/maze-game.html",
+      "simulation_name": "Maze Game",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/membrane-channels.html",
+      "simulation_name": "Membrane Channels",
+      "educational_subjects": [
+        "Biology"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/microwaves.html",
+      "simulation_name": "Microwaves",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/hydrogen-atom.html",
+      "simulation_name": "Models of the Hydrogen Atom",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/molarity.html",
+      "simulation_name": "Molarity",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/molecular-motors.html",
+      "simulation_name": "Molecular Motors",
+      "educational_subjects": [
+        "Physics",
+        "Biology"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/molecule-polarity.html",
+      "simulation_name": "Molecule Polarity",
+      "educational_subjects": [
+        "Biology",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/molecules-and-light.html",
+      "simulation_name": "Molecules and Light",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/molecule-shapes.html",
+      "simulation_name": "Molecule Shapes",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/molecule-shapes-basics.html",
+      "simulation_name": "Molecule Shapes: Basics",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/motion-2d.html",
+      "simulation_name": "Motion in 2D",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/moving-man.html",
+      "simulation_name": "The Moving Man",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/my-solar-system.html",
+      "simulation_name": "My Solar System",
+      "educational_subjects": [
+        "Physics",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/natural-selection.html",
+      "simulation_name": "Natural Selection",
+      "educational_subjects": [
+        "Biology"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/discharge-lamps.html",
+      "simulation_name": "Neon Lights & Other Discharge Lamps",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/neuron.html",
+      "simulation_name": "Neuron",
+      "educational_subjects": [
+        "Biology"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/normal-modes.html",
+      "simulation_name": "Normal Modes",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/nuclear-fission.html",
+      "simulation_name": "Nuclear Fission",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/ohms-law.html",
+      "simulation_name": "Ohm's Law",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/optical-quantum-control.html",
+      "simulation_name": "Optical Quantum Control",
+      "educational_subjects": [],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/optical-tweezers.html",
+      "simulation_name": "Optical Tweezers and Applications",
+      "educational_subjects": [
+        "Physics",
+        "Biology"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/pendulum-lab.html",
+      "simulation_name": "Pendulum Lab",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/photoelectric.html",
+      "simulation_name": "Photoelectric Effect",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/ph-scale.html",
+      "simulation_name": "pH Scale",
+      "educational_subjects": [
+        "Biology",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/ph-scale-basics.html",
+      "simulation_name": "pH Scale: Basics",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/plate-tectonics.html",
+      "simulation_name": "Plate Tectonics",
+      "educational_subjects": [
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/plinko-probability.html",
+      "simulation_name": "Plinko Probability",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/projectile-motion.html",
+      "simulation_name": "Projectile Motion",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/proportion-playground.html",
+      "simulation_name": "Proportion Playground",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/bound-states.html",
+      "simulation_name": "Quantum Bound States",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/quantum-tunneling.html",
+      "simulation_name": "Quantum Tunneling and Wave Packets",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/quantum-wave-interference.html",
+      "simulation_name": "Quantum Wave Interference",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/radiating-charge.html",
+      "simulation_name": "Radiating Charge",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/radioactive-dating-game.html",
+      "simulation_name": "Radioactive Dating Game",
+      "educational_subjects": [
+        "Physics",
+        "Biology",
+        "Chemistry",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/radio-waves.html",
+      "simulation_name": "Radio Waves & Electromagnetic Fields",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/the-ramp.html",
+      "simulation_name": "The Ramp",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/ramp-forces-and-motion.html",
+      "simulation_name": "Ramp: Forces and Motion",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/reactants-products-and-leftovers.html",
+      "simulation_name": "Reactants, Products and Leftovers",
+      "educational_subjects": [
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/reactions-and-rates.html",
+      "simulation_name": "Reactions & Rates",
+      "educational_subjects": [
+        "Physics",
+        "Biology",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/resistance-in-a-wire.html",
+      "simulation_name": "Resistance in a Wire",
+      "educational_subjects": [
+        "Physics",
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/resonance.html",
+      "simulation_name": "Resonance",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/reversible-reactions.html",
+      "simulation_name": "Reversible Reactions",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/rutherford-scattering.html",
+      "simulation_name": "Rutherford Scattering",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/soluble-salts.html",
+      "simulation_name": "Salts & Solubility",
+      "educational_subjects": [
+        "Biology",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/self-driven-particle-model.html",
+      "simulation_name": "Self-Driven Particle Model",
+      "educational_subjects": [],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/semiconductor.html",
+      "simulation_name": "Semiconductors",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/signal-circuit.html",
+      "simulation_name": "Signal Circuit",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/mri.html",
+      "simulation_name": "Simplified MRI",
+      "educational_subjects": [
+        "Physics",
+        "Biology",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/sound.html",
+      "simulation_name": "Sound",
+      "educational_subjects": [
+        "Physics",
+        "Biology",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/states-of-matter.html",
+      "simulation_name": "States of Matter",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/states-of-matter-basics.html",
+      "simulation_name": "States of Matter: Basics",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/stern-gerlach.html",
+      "simulation_name": "Stern-Gerlach Experiment",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/stretching-dna.html",
+      "simulation_name": "Stretching DNA",
+      "educational_subjects": [
+        "Physics",
+        "Biology"
+      ],
+      "educational_levels": [
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/sugar-and-salt-solutions.html",
+      "simulation_name": "Sugar and Salt Solutions",
+      "educational_subjects": [
+        "Biology",
+        "Chemistry"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/torque.html",
+      "simulation_name": "Torque",
+      "educational_subjects": [
+        "Physics"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/trig-tour.html",
+      "simulation_name": "Trig Tour",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/under-pressure.html",
+      "simulation_name": "Under Pressure",
+      "educational_subjects": [
+        "Physics",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/unit-rates.html",
+      "simulation_name": "Unit Rates",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/vector-addition.html",
+      "simulation_name": "Vector Addition",
+      "educational_subjects": [
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/legacy/wave-interference.html",
+      "simulation_name": "Wave Interference",
+      "educational_subjects": [
+        "Physics",
+        "Earth Science"
+      ],
+      "educational_levels": [
+        "Elementary School",
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    },
+    {
+      "simulation_link": "https://testing-clix.tiss.edu/softwares/DOER/PhET/en/simulation/wave-on-a-string.html",
+      "simulation_name": "Wave on a String",
+      "educational_subjects": [
+        "Physics",
+        "Chemistry",
+        "Earth Science",
+        "Math"
+      ],
+      "educational_levels": [
+        "Middle School",
+        "High School",
+        "University"
+      ]
+    }
+  ]
+}
