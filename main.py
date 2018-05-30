@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import requests
+import json
 
 def get_subjects(soup):
     subjects = []
@@ -32,13 +33,26 @@ soup = BeautifulSoup(page.content, 'lxml')
 tags = soup.select('span.simulation-list-title')
 links = soup.select('a.simulation-link')
 
+data = {}
+data['simulations'] = []
+
 for tag, link in zip(tags, links):
     new_url = urljoin(BASE_URL, link.get('href'))
     new_page = requests.get(new_url)
     new_soup = BeautifulSoup(new_page.content, 'lxml')
     subjects = get_subjects(new_soup)
     grades = get_grades(new_soup)
+    data['simulations'].append({
+        'simulation_link': str(new_url),
+        'simulation_name': str(tag.string),
+        'educational_subjects': subjects,
+        'educational_levels': grades
+    })
+    print(new_url)
     print(tag.string)
     print(subjects)
     print(grades)
     print()
+
+with open('phetdata.json', 'w') as outfile:
+    json.dump(data, outfile, indent=4)
