@@ -55,4 +55,4 @@ for tag, link in zip(tags, links):
     print()
 
 with open('phetdata.json', 'w') as outfile:
-    json.dump(data, outfile, indent=4)
+    json.dump(data, outfile, indent=2)
