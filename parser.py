@@ -20,3 +20,23 @@ def get_grades(soup):
         for tag in tags:
             grades.append(str(tag.string))
     return grades
+
+def get_keywords(soup):
+    # tags = soup.select('div#about span[itemprop="keywords"]')
+    tags = soup.select('td.simulation-main-description span[itemprop="keywords"]')
+    keywords = [str(tag.string) for tag in tags]
+    return keywords
+
+def get_desc(soup):
+    tags = soup.select('div#about p[itemprop="description about"]')
+    return str(tags[0].string)
+
+def get_related_sims(soup):
+    tags = soup.select('div#related-sims span.simulation-list-title')
+    related_sims = [str(tag.string) for tag in tags]
+    return related_sims
+
+def get_creds(soup):
+    tags = soup.select('div#credits span')
+    credits = [str(tag.string) for tag in tags]
+    return credits
