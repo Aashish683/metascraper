@@ -25,7 +25,7 @@ def scrape(base_url):
         credits = psr.get_creds(new_soup)
         data['simulations'].append({
             'simulation_link': str(new_url),
-            'simulation_name': str(tag.string),
+            'simulation_name': str(tag.get_text(strip=True)),
             'educational_subjects': subjects,
             'educational_levels': grades,
             'keywords': keywords,
@@ -33,13 +33,21 @@ def scrape(base_url):
             'related_sims': related_sims,
             'credits': credits
         })
+        print('Link:')
         print(new_url)
-        print(tag.string)
+        print('Name:')
+        print(tag.get_text(strip=True))
+        print('Subjects:')
         print(subjects)
+        print('Grades:')
         print(grades)
+        print('Keywords:')
         print(keywords)
+        print('Description:')
         print(description)
+        print('Related Sims:')
         print(related_sims)
+        print('Credits:')
         print(credits)
         print()
 

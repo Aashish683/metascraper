@@ -8,7 +8,7 @@ def get_subjects(soup):
     for sub_id in sub_ids:
         tags = soup.select('a#' + sub_id + ' span.selected')
         for tag in tags:
-            subjects.append(str(tag.string))
+            subjects.append(str(tag.get_text(strip=True)))
     return subjects
 
 def get_grades(soup):
@@ -18,25 +18,28 @@ def get_grades(soup):
     for grade_id in grade_ids:
         tags = soup.select('a#' + grade_id + ' span.selected')
         for tag in tags:
-            grades.append(str(tag.string))
+            grades.append(str(tag.get_text(strip=True)))
     return grades
 
 def get_keywords(soup):
     # tags = soup.select('div#about span[itemprop="keywords"]')
     tags = soup.select('td.simulation-main-description span[itemprop="keywords"]')
-    keywords = [str(tag.string) for tag in tags]
+    keywords = [str(tag.get_text(strip=True)) for tag in tags]
     return keywords
 
 def get_desc(soup):
     tags = soup.select('div#about p[itemprop="description about"]')
-    return str(tags[0].string)
+    return str(tags[0].get_text(strip=True))
 
 def get_related_sims(soup):
     tags = soup.select('div#related-sims span.simulation-list-title')
-    related_sims = [str(tag.string) for tag in tags]
+    related_sims = [str(tag.get_text(strip=True)) for tag in tags]
     return related_sims
 
 def get_creds(soup):
-    tags = soup.select('div#credits span')
-    credits = [str(tag.string) for tag in tags]
+    rows = soup.select('div#credits tr')
+    credits = {}
+    for c1, c2 in zip(rows[0].select('th'), rows[1].select('td')):
+        tags = c2.select('span')
+        credits[str(c1.get_text(strip=True))] = [str(tag.get_text(strip=True)) for tag in tags]
     return credits
