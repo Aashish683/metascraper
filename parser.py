@@ -43,3 +43,7 @@ def get_creds(soup):
         tags = c2.select('span')
         credits[str(c1.get_text(strip=True))] = [str(tag.get_text(strip=True)) for tag in tags]
     return credits
+
+def get_html(soup):
+    html = soup.select('div.simulation-main-content')
+    return str(html[0].prettify())
