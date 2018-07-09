@@ -2,8 +2,8 @@ import constants as cts
 import scraper as spr
 import json
 
-site = cts.Site.META_STUDIO
-# site = cts.Site.CLIX
+# site = cts.Site.META_STUDIO
+site = cts.Site.CLIX
 
 if site == cts.Site.META_STUDIO:
     base_url = 'http://doer.metastudio.org/phet/en/simulations.html'

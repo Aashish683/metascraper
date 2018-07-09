@@ -17,13 +17,13 @@ def scrape(base_url):
         new_url = urljoin(base_url, link.get('href'))
         new_page = requests.get(new_url)
         new_soup = BeautifulSoup(new_page.content, 'lxml')
+        html = psr.get_html(new_soup)
         subjects = psr.get_subjects(new_soup)
         grades = psr.get_grades(new_soup)
         keywords = psr.get_keywords(new_soup)
         description = psr.get_desc(new_soup)
         related_sims = psr.get_related_sims(new_soup)
         credits = psr.get_creds(new_soup)
-        html = psr.get_html(new_soup)
         data['simulations'].append({
             'simulation_link': str(new_url),
             'html_content': html,
